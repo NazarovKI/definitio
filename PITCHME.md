@@ -66,7 +66,7 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-### <!--fit--> :ok_hand:
+### <!--fit--> :anchor:
 
 ---
 
