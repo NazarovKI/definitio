@@ -54,7 +54,7 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![bg left 70% My dog Lola, an adorable black and white Havanese dog who looks like a tiny floofy panda, on the couch looking at the camera doing a blep](./assets/profile.jpg)
+![bg left 70%](./assets/profile.jpg)
 
 # Обо мне
 
