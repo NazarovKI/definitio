@@ -61,3 +61,7 @@ https://github.com/yhatt/marp-cli-example
 - **Имя:** Кирилл Ильич
 **IT-Консультант**
 kirilnazarov@xmail.ru
+
+---
+новый слайд
+![bg left 70%](./assets/gradient.jpg)
