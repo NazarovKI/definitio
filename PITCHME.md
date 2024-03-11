@@ -1,38 +1,36 @@
 ---
 marp: true
-lang: en-US
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+lang: ru-RU
+title: Миссионерский институт
+description: Вступительное слово
 theme: uncover
-transition: fade
+transition: zoom
 paginate: true
 _paginate: false
+backgroundImage: url('./assets/background.png')
 ---
+<!-- _color: "#0a0" -->
 
-![bg opacity](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
+# <!--fit--> Современные инструменты <br /> презентации и web-хостинга
 
 https://github.com/yhatt/marp-cli-example
 
 <style scoped>a { color: #36c; }</style>
 
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+<!-- Это заметка для докладчика, она появится при нажатии на значок кафедры -->
 
 ---
 
 ![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
 
----
+<!--Это инструмент создания презентации используя синтаксис markdown-->
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+---
+<!-- _color: "#0a0" -->
 
 ##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+##### <!--fit--> Сделать презентацию доступной со смартфона?
 
 ---
 
@@ -40,38 +38,26 @@ https://github.com/yhatt/marp-cli-example
 
 ## **[GitHub Pages](https://github.com/pages)**
 
-#### Ready to write & host your deck!
+#### Для статичного сайта или презентации!
 
 [![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
 
 ---
+![bg right 60%](https://frontender.info/build-blog-jekyll-github-pages/img/octojekyll-opt.jpg)
+---
+<!-- _color: "#0a0" -->
+### <!--fit--> ⚓
+---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+### Спасибо за внимание!
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+![bg left 70% My dog Lola, an adorable black and white Havanese dog who looks like a tiny floofy panda, on the couch looking at the camera doing a blep](./assets/profile.jpg)
 
-## **[Vercel](https://vercel.com/)**
+# Обо мне
 
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :anchor:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+- **Имя:** Кирилл Ильич
+**IT-Консультант**
+kirilnazarov@xmail.ru
